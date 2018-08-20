@@ -1,0 +1,27 @@
+Home:
+  title: 'Lippia Tea'
+  subtitle: 'Enjoy different blends of an African blend of Tea'
+
+Packages:
+  leaves:
+    - type: 'crushed'
+      description: >
+        Crushed leave packages are not necessarily finely crushed but come in the most processed and clean form of the leaves.
+    - type: 'uncrushed clean'
+      description: >
+        Leaves are plucked from the branches and bagged in a presentable form.
+    - type: 'uncrushed raw'
+      description: >
+        This package is the most unprocessed form of the leaves. These may contain debris, branches and seeds.
+        It will still be relatively clean and void of lots of impurities but packaged in bags right from the harvest.
+  powdered:
+    - type: 'fine powder'
+      description: >
+        Leaves are crushed into fine poweder. These packages can be brewed in a coffee maker or tea pot with a filter.
+    - type: 'tea bag'
+      description: >
+        Tea bags are the most refined packaging options for the lippia tea.
+
+
+
+
